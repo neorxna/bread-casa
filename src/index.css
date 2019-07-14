@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+.loaf {
+  margin-left: 12em;
+  margin-top: 4em;
+  width: 800px;
+  height: 600px;
+  background-color: black;
+}
